@@ -2,7 +2,7 @@
 
 ## 📋 Deskripsi Program
 
-Selamat datang di **Program Pelatihan Dasar Pemrograman Web** yang dirancang khusus untuk kelas tambahan! Program ini merupakan pemadatan materi dari 12 pertemuan menjadi **6 pertemuan intensif** yang mencakup semua konsep fundamental PHP yang diperlukan untuk memulai perjalanan sebagai web developer.
+Selamat datang di **Program Pelatihan Dasar Pemrograman Web with Ridho** yang dirancang khusus untuk teman-teman saya mahasiswa di STMIK Triguna Dharma! Program ini merupakan pemadatan materi dari 12 pertemuan belajar mandiri di Kost Temen sekelas wkwkwk yang menjadi **6 pertemuan intensif** yang mencakup semua konsep fundamental PHP yang diperlukan untuk memulai perjalanan sebagai web developer.
 
 ## 🎯 Tujuan Pembelajaran
 
