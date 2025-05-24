@@ -177,7 +177,7 @@ http://localhost:8000/pertemuan1.php
 
 ## 🎓 Evaluasi dan Sertifikasi
 
-### Kriteria Kelulusan:
+### Kriteria Jika Kamu Serius Mendalami Materi:
 - ✅ Menyelesaikan semua 6 pertemuan
 - ✅ Memahami konsep dasar setiap topik
 - ✅ Mampu mengerjakan latihan praktik
@@ -209,8 +209,8 @@ Jika mengalami kesulitan:
 
 ### Sumber Belajar Lanjutan:
 - 📖 [PHP Manual Resmi](https://www.php.net/manual/)
-- 🎥 Tutorial YouTube PHP Indonesia
-- 💻 Platform belajar online (Dicoding, Udemy, dll)
+- 🎥 Tutorial YouTube PHP Indonesia (PWU, PZN dll)
+- 💻 Platform belajar online (W3Schools, Udemy, dll)
 - 👥 Komunitas developer Indonesia
 
 ## 📝 Catatan Penting
